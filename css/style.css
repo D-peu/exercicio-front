@@ -99,5 +99,16 @@ figure {
 
 figure img {
     height: 200px;
-    
+}
+
+.world {
+    color: #FFFFFF;
+}
+
+.wide {
+    color: #CFE8CF;
+}
+
+.web {
+    color: #008549;
 }
